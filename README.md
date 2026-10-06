@@ -72,3 +72,12 @@ El análisis sugiere que la campaña de 2017 debe enfocarse en:
 - **Python** (pandas, matplotlib, seaborn, scipy)  
 - **Jupyter Notebook**  
 - **Git/GitHub** para control de versiones  
+
+## 📂 Estructura del Repositorio
+
+proyecto_videojuegos/
+├── datasets/
+│   └── games.csv
+├── videojuegos_analysis.ipynb
+├── README.md
+└── .gitignore
